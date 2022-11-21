@@ -1,0 +1,37 @@
+*{
+    margin: 0;
+    background-image: url("https://media.tenor.com/fKIgEVUwX-oAAAAC/baloo-scratch.gif"); 
+    background-position: auto; 
+    background-size: cover; 
+} 
+
+
+.contenedor{
+    width: 100vw;
+    height: 100vh;
+    text-align: center;
+}
+
+p{
+    font-size: xx-large;
+    padding: 15%;
+    color: white;
+}
+
+button{
+    font-size: xx-large;
+    padding: 0.75em;    
+    border: none;
+    color: #fff;
+}
+
+#yesBtn{
+    transform: translate(-100%,0);
+    background-image: url("https://c.tenor.com/re67rrmw5CQAAAAM/cat.gif");
+
+}
+
+#noBtn{
+    position: absolute;
+    background-image: url("https://media.tenor.com/kH5Gc_NOJIcAAAAC/run-running.gif");
+}
