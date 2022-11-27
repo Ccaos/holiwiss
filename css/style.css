@@ -27,11 +27,11 @@ button{
 
 #yesBtn{
     transform: translate(-100%,0);
-    background-image: url("https://c.tenor.com/re67rrmw5CQAAAAM/cat.gif");
+    background-image: url("https://media.tenor.com/4WYsJJQ9kp4AAAAC/no-bueno-si-homer-simpson.gif");
 
 }
 
 #noBtn{
     position: absolute;
-    background-image: url("https://media.tenor.com/kH5Gc_NOJIcAAAAC/run-running.gif");
+    background-image: url("https://media.tenor.com/ivzpj8yeacUAAAAd/que-como-que-no-que.gif");
 }
